@@ -17,6 +17,7 @@ local.properties
 
 build/
 *.apk
+*.aab
 output.json
 captures/
 
