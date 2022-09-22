@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+build/
+*.apk
+output.json
+captures/
+
+node_modules/
